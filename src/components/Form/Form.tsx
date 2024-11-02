@@ -73,7 +73,7 @@ export function Form() {
           errors={state.errors}
         />
         <ReCAPTCHA
-          sitekey="6Lfj9NYfAAAAAP8wPLtzrsSZeACIcGgwuEIRvbSg"
+          sitekey="6LdJMHMqAAAAANkJrI9skHve0wcZSQMmiN6bSqXB"
           onChange={(e) => {
             setIsHuman(true)
           }}
